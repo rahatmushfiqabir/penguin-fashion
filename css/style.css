@@ -1,0 +1,93 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    
+}
+
+
+.navbar-brand img{
+    width: 60%;
+    
+}
+
+.navbar-collapse{
+    margin-left: 100px;
+    padding: 10px 100px;
+}
+.whole, .color{
+    background-color: #FFFBF0;
+}
+h1{ 
+    font-family: 'Bebas Neue', cursive;
+    font-size: 10px;
+    color: #363958;
+    
+}
+#first-text{
+    color: chocolate;
+}
+
+.card img{
+    height: 300px;
+    padding: 5px;
+}
+
+.card{
+    padding: 20px;
+    border-style:none!important;
+ 
+
+}
+.card-title{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    color: #363958;
+}
+
+.p-image{
+    background-color:#E4E7DE; 
+    border-radius:15px;
+    padding: 25px 15px;
+}
+
+#h-tag{
+    font-size:35px; 
+    color: #EAB423;
+}
+#b-tag{
+    border-radius: 8px; 
+    background-color:#3ED768; 
+    color:white;
+}
+
+.last-sec img{
+    width: 50px;
+}
+
+.l-image img{
+    width: 15%;
+    
+}
+
+.l-image {
+    width: 15%;
+    padding: 20px;
+    box-shadow: 5px 4px 8px 1px #888888;
+}
+
+
+.big-image img{
+    width: 100%;
+}
+
+.contact{
+    background-color: burlywood;
+}
+@media(max-width:688px){
+    .l-image{
+        
+        width: 100%;
+        
+       
+    }
