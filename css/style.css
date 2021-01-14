@@ -84,6 +84,8 @@ h1{
 .contact{
     background-color: burlywood;
 }
+
+
 @media(max-width:688px){
     .l-image{
         
@@ -91,3 +93,4 @@ h1{
         
        
     }
+}
